@@ -14,3 +14,4 @@ R
 Python
 Javascript 
 HTML
+SQL
